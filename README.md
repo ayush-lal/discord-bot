@@ -1,6 +1,6 @@
 # Discord-Bot
 
-Simple Discord bot that fetches memes from an API and inserts it into a dedicated server.
+Simple Discord bot that fetches data from an API and inserts it into a channel on a dedicated server.
 
 ## Getting Started
 
